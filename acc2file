@@ -1,0 +1,17 @@
+int a[]= new int[5];
+		int v=1;
+		for(int i=1;i<5;i++) {
+			a[i]= v++;
+			System.out.println("a[i] values are    "   +  a[i]);
+		}
+		asdfhgjkl;
+    dfghjkl;
+    fghjkl
+    fdghjkl;'
+    fghjkl;'
+    ghjkl;'
+    gfhjkl;'
+    rtuiop[
+    rtuio
+    'fhgjkl;'
+    
